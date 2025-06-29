@@ -1,4 +1,4 @@
-📊 **Task 4 - SQL for Data Analysis**
+📊 **Task 3 - SQL for Data Analysis**
 This repository contains the Jupyter Notebook for performing SQL-based data analysis on the Olist Customers Dataset using SQLite3 within Python and output screenshots.
 
 ✅ **Task Objectives**
